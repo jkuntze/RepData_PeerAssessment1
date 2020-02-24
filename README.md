@@ -1,3 +1,7 @@
+## Reproducible Research
+
+This repository contains files related to the course Reproducible Research offered through Coursera, more specifically to the first peer assessment.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
